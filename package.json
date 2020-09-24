@@ -32,21 +32,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ngabomugisha/WebWithReact.git"
-  },
-  "keywords": [
-    "learing\u001b[D\u001b[D\u001b[Dn"
-  ],
-  "author": "Robert NGABO MUGISHA",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ngabomugisha/WebWithReact/issues"
-  },
-  "homepage": "https://github.com/ngabomugisha/WebWithReact#readme"
+  }
 }
